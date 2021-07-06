@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "repeat": false,
+        "timeout": true,
+        "reward": 1
+    },
+    "count": 37,
+    "correct": {
+        "aiko#7716": 37
+    },
+    "incorrect": {},
+    "lastCount": 1
+}
