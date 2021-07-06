@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "repeat": true,
+        "timeout": true,
+        "reset": true,
+        "reward": 1
+    },
+    "count": 9,
+    "correct": {
+        "Ender_Bit#1888": 153
+    },
+    "incorrect": {},
+    "lastCount": null
+}

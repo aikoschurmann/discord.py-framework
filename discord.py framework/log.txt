@@ -1,0 +1,643 @@
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  0
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  5
+test  |  Ender_Bit#1888  |  5
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  5
+test  |  Ender_Bit#1888  |  5
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  5
+test  |  Ender_Bit#1888  |  5
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  5118 hbzd ^5
+test  |  Ender_Bit#1888  |  5118 hbzd ^5
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  54 58494 9
+test  |  Ender_Bit#1888  |  54 58494 9
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  15
+test  |  Ender_Bit#1888  |  15
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  3
+test  |  Ender_Bit#1888  |  3
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  5
+test  |  Ender_Bit#1888  |  5
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  3
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  2
+test  |  Ender_Bit#1888  |  2
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  0
+test  |  Ender_Bit#1888  |  1
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+test  |  Ender_Bit#1888  |  1
+test  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `0` by 1 
+for your info, that is supposed to be: `1`!
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .hello
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity hey
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity you
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  Ender_Bit#1888  |  9
+Ender_Bit's server  |  Ender_Bit#1888  |  10
+Ender_Bit's server  |  Ender_Bit#1888  |  11
+Ender_Bit's server  |  Ender_Bit#1888  |  12
+Ender_Bit's server  |  Ender_Bit#1888  |  13
+Ender_Bit's server  |  Ender_Bit#1888  |  14
+Ender_Bit's server  |  Ender_Bit#1888  |  15
+Ender_Bit's server  |  Ender_Bit#1888  |  16
+Ender_Bit's server  |  Ender_Bit#1888  |  17
+Ender_Bit's server  |  Ender_Bit#1888  |  18
+Ender_Bit's server  |  Ender_Bit#1888  |  19
+Ender_Bit's server  |  Ender_Bit#1888  |  21
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `19` by 1 
+for your info, that is supposed to be: `20`!
+Ender_Bit's server  |  Ender_Bit#1888  |  20
+Ender_Bit's server  |  Ender_Bit#1888  |  21
+Ender_Bit's server  |  Ender_Bit#1888  |  22
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity :c
+Ender_Bit's server  |  Ender_Bit#1888  |  23
+Ender_Bit's server  |  Ender_Bit#1888  |  24
+Ender_Bit's server  |  Ender_Bit#1888  |  25
+Ender_Bit's server  |  Ender_Bit#1888  |  26
+Ender_Bit's server  |  Ender_Bit#1888  |  27
+Ender_Bit's server  |  Ender_Bit#1888  |  28
+Ender_Bit's server  |  Ender_Bit#1888  |  29
+Ender_Bit's server  |  Ender_Bit#1888  |  30
+Ender_Bit's server  |  Ender_Bit#1888  |  31
+Ender_Bit's server  |  Ender_Bit#1888  |  32
+Ender_Bit's server  |  Ender_Bit#1888  |  33
+Ender_Bit's server  |  Ender_Bit#1888  |  34
+Ender_Bit's server  |  Ender_Bit#1888  |  35
+Ender_Bit's server  |  Ender_Bit#1888  |  36
+Ender_Bit's server  |  Ender_Bit#1888  |  37
+Ender_Bit's server  |  Ender_Bit#1888  |  38
+Ender_Bit's server  |  Ender_Bit#1888  |  39
+Ender_Bit's server  |  Ender_Bit#1888  |  40
+Ender_Bit's server  |  Ender_Bit#1888  |  41
+Ender_Bit's server  |  Ender_Bit#1888  |  42
+Ender_Bit's server  |  Ender_Bit#1888  |  43
+Ender_Bit's server  |  Ender_Bit#1888  |  44
+Ender_Bit's server  |  Ender_Bit#1888  |  45
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity this is a test
+Ender_Bit's server  |  ARTISTiek#7053  |  it works!
+Ender_Bit's server  |  Ender_Bit#1888  |  .test
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity you
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity hey
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity this is a test
+Ender_Bit's server  |  Ender_Bit#1888  |  .setactivity this is a test
+Ender_Bit's server  |  Ender_Bit#1888  |  46
+Ender_Bit's server  |  Ender_Bit#1888  |  47
+Ender_Bit's server  |  Ender_Bit#1888  |  48
+Ender_Bit's server  |  Ender_Bit#1888  |  49
+Ender_Bit's server  |  Ender_Bit#1888  |  50
+Ender_Bit's server  |  Ender_Bit#1888  |  51
+Ender_Bit's server  |  Ender_Bit#1888  |  52
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `51` by 1 
+for your info, that is supposed to be: `52`!
+Ender_Bit's server  |  Ender_Bit#1888  |  53
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `52` by 1 
+for your info, that is supposed to be: `53`!
+Ender_Bit's server  |  Ender_Bit#1888  |  54
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `52` by 1 
+for your info, that is supposed to be: `53`!
+Ender_Bit's server  |  Ender_Bit#1888  |  52
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `52` by 1 
+for your info, that is supposed to be: `53`!
+Ender_Bit's server  |  Ender_Bit#1888  |  52
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `52` by 1 
+for your info, that is supposed to be: `53`!
+Ender_Bit's server  |  Ender_Bit#1888  |  51
+Ender_Bit's server  |  Ender_Bit#1888  |  53
+Ender_Bit's server  |  Ender_Bit#1888  |  54
+Ender_Bit's server  |  Ender_Bit#1888  |  55
+Ender_Bit's server  |  Ender_Bit#1888  |  56
+Ender_Bit's server  |  Ender_Bit#1888  |  57
+Ender_Bit's server  |  Ender_Bit#1888  |  58
+Ender_Bit's server  |  Ender_Bit#1888  |  59
+Ender_Bit's server  |  Ender_Bit#1888  |  60
+Ender_Bit's server  |  Ender_Bit#1888  |  61
+Ender_Bit's server  |  Ender_Bit#1888  |  62
+Ender_Bit's server  |  Ender_Bit#1888  |  63
+Ender_Bit's server  |  Ender_Bit#1888  |  64
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `64` by 1 
+for your info, that is supposed to be: `65`!
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  65
+Ender_Bit's server  |  Ender_Bit#1888  |  66
+Ender_Bit's server  |  Ender_Bit#1888  |  67
+Ender_Bit's server  |  Ender_Bit#1888  |  68
+Ender_Bit's server  |  Ender_Bit#1888  |  69
+Ender_Bit's server  |  Ender_Bit#1888  |  70
+Ender_Bit's server  |  Ender_Bit#1888  |  71
+Ender_Bit's server  |  Ender_Bit#1888  |  72
+Ender_Bit's server  |  Ender_Bit#1888  |  73
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `72` by 1 
+for your info, that is supposed to be: `73`!
+Ender_Bit's server  |  Ender_Bit#1888  |  74
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `73` by 1 
+for your info, that is supposed to be: `74`!
+Ender_Bit's server  |  Ender_Bit#1888  |  75
+Ender_Bit's server  |  Ender_Bit#1888  |  74
+Ender_Bit's server  |  Ender_Bit#1888  |  75
+Ender_Bit's server  |  Ender_Bit#1888  |  76
+Ender_Bit's server  |  Ender_Bit#1888  |  77
+Ender_Bit's server  |  Ender_Bit#1888  |  78
+Ender_Bit's server  |  Ender_Bit#1888  |  79
+Ender_Bit's server  |  Ender_Bit#1888  |  80
+Ender_Bit's server  |  Ender_Bit#1888  |  81
+Ender_Bit's server  |  Ender_Bit#1888  |  82
+Ender_Bit's server  |  Ender_Bit#1888  |  83
+Ender_Bit's server  |  Ender_Bit#1888  |  84
+Ender_Bit's server  |  Ender_Bit#1888  |  85
+Ender_Bit's server  |  Ender_Bit#1888  |  86
+Ender_Bit's server  |  Ender_Bit#1888  |  87
+Ender_Bit's server  |  Ender_Bit#1888  |  88
+Ender_Bit's server  |  Ender_Bit#1888  |  89
+Ender_Bit's server  |  Ender_Bit#1888  |  90
+Ender_Bit's server  |  Ender_Bit#1888  |  91
+Ender_Bit's server  |  Ender_Bit#1888  |  92
+Ender_Bit's server  |  Ender_Bit#1888  |  93
+Ender_Bit's server  |  Ender_Bit#1888  |  94
+Ender_Bit's server  |  Ender_Bit#1888  |  95
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `94` by 1 
+for your info, that is supposed to be: `95`!
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `94` by 1 
+for your info, that is supposed to be: `95`!
+Ender_Bit's server  |  Ender_Bit#1888  |  96
+Ender_Bit's server  |  Ender_Bit#1888  |  9
+Ender_Bit's server  |  Ender_Bit#1888  |  96
+Ender_Bit's server  |  Ender_Bit#1888  |  97
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `97` by 1 
+for your info, that is supposed to be: `98`!
+Ender_Bit's server  |  Ender_Bit#1888  |  88
+Ender_Bit's server  |  Ender_Bit#1888  |  98
+Ender_Bit's server  |  Ender_Bit#1888  |  99
+Ender_Bit's server  |  Ender_Bit#1888  |  100
+Ender_Bit's server  |  Ender_Bit#1888  |  101
+Ender_Bit's server  |  Ender_Bit#1888  |  102
+Ender_Bit's server  |  Ender_Bit#1888  |  103
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `3` by 1 
+for your info, that is supposed to be: `4`!
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  Ender_Bit#1888  |  9
+Ender_Bit's server  |  Ender_Bit#1888  |  10
+Ender_Bit's server  |  Ender_Bit#1888  |  11
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `1` by 1 
+for your info, that is supposed to be: `2`!
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `2` by 1 
+for your info, that is supposed to be: `3`!
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  Ender_Bit#1888  |  9
+Ender_Bit's server  |  Ender_Bit#1888  |  10
+Ender_Bit's server  |  Ender_Bit#1888  |  11
+Ender_Bit's server  |  Ender_Bit#1888  |  12
+Ender_Bit's server  |  Ender_Bit#1888  |  13
+Ender_Bit's server  |  Ender_Bit#1888  |  14
+Ender_Bit's server  |  Ender_Bit#1888  |  15
+Ender_Bit's server  |  Ender_Bit#1888  |  16
+Ender_Bit's server  |  Ender_Bit#1888  |  17
+Ender_Bit's server  |  Ender_Bit#1888  |  18
+Ender_Bit's server  |  Ender_Bit#1888  |  19
+Ender_Bit's server  |  Ender_Bit#1888  |  20
+Ender_Bit's server  |  Ender_Bit#1888  |  21
+Ender_Bit's server  |  Ender_Bit#1888  |  22
+Ender_Bit's server  |  Ender_Bit#1888  |  23
+Ender_Bit's server  |  Ender_Bit#1888  |  24
+Ender_Bit's server  |  Ender_Bit#1888  |  25
+Ender_Bit's server  |  Ender_Bit#1888  |  26
+Ender_Bit's server  |  Ender_Bit#1888  |  27
+Ender_Bit's server  |  Ender_Bit#1888  |  28
+Ender_Bit's server  |  Ender_Bit#1888  |  29
+Ender_Bit's server  |  Ender_Bit#1888  |  30
+Ender_Bit's server  |  Ender_Bit#1888  |  31
+Ender_Bit's server  |  Ender_Bit#1888  |  1
+Ender_Bit's server  |  Ender_Bit#1888  |  2
+Ender_Bit's server  |  Ender_Bit#1888  |  3
+Ender_Bit's server  |  Ender_Bit#1888  |  4
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  ARTISTiek#7053  |  <@!483946278204473346> you officialy failed to increase `5` by 1 
+for your info, that is supposed to be: `6`!
+Ender_Bit's server  |  Ender_Bit#1888  |  5
+Ender_Bit's server  |  Ender_Bit#1888  |  6
+Ender_Bit's server  |  Ender_Bit#1888  |  7
+Ender_Bit's server  |  Ender_Bit#1888  |  8
+Ender_Bit's server  |  Ender_Bit#1888  |  9
+test  |  aiko#7716  |  1
+test  |  aiko#7716  |  2
+test  |  aiko#7716  |  3
+test  |  aiko#7716  |  4
+test  |  aiko#7716  |  5
+test  |  aiko#7716  |  6
+test  |  aiko#7716  |  7
+test  |  aiko#7716  |  8
+test  |  aiko#7716  |  9
+test  |  aiko#7716  |  10
+test  |  aiko#7716  |  11
+test  |  aiko#7716  |  12
+test  |  aiko#7716  |  13
+test  |  aiko#7716  |  14
+test  |  aiko#7716  |  15
+test  |  aiko#7716  |  16
+test  |  aiko#7716  |  17
+test  |  aiko#7716  |  18
+test  |  aiko#7716  |  19
+test  |  aiko#7716  |  20
+test  |  aiko#7716  |  21
+test  |  aiko#7716  |  22
+test  |  aiko#7716  |  23
+test  |  aiko#7716  |  24
+test  |  aiko#7716  |  25
+test  |  aiko#7716  |  26
+test  |  aiko#7716  |  27
+test  |  aiko#7716  |  28
+test  |  aiko#7716  |  29
+test  |  aiko#7716  |  30
+test  |  aiko#7716  |  31
+test  |  aiko#7716  |  32
+test  |  aiko#7716  |  33
+test  |  aiko#7716  |  34
+test  |  aiko#7716  |  35
+test  |  aiko#7716  |  36
+test  |  aiko#7716  |  37
