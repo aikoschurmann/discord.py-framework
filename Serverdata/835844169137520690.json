@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "repeat": true,
+        "timeout": true,
+        "reset": true,
+        "reward": 1
+    },
+    "count": 124,
+    "correct": {
+        "Ender_Bit#1888": 124
+    },
+    "incorrect": {
+        "Ender_Bit#1888": 4
+    },
+    "coins": {
+        "Ender_Bit#1888": 124
+    },
+    "lastCount": 483946278204473346
+}
