@@ -1,15 +1,10 @@
 from bot.Count import Count
 from commands.countModules.setID import setID
 from commands.countModules.giveCoin import giveCoin
-from commands.countModules.increaseWrong import increaseWrong
 from mudules.saveJSON import saveJSON
-from commands.countModules.increaseCorrect import increaseCorrect
-from commands.countModules.increaseCount import increaseCount
 from commands.countModules.getWrongMessage import getWrongMessage
 from commands.countModules.checkLastUser import checkLastUser
-from commands.countModules.numberCorrect import numberCorrect
 from commands.countModules.getUserMessage import getUserMessage
-from commands.countModules.isNumber import isNumber
 from mudules.loadJSON import loadJSON
 
 

@@ -1,10 +1,4 @@
-
-
-from typing import Pattern
-
-import discord
 from mudules.loadJSON import loadJSON
-from commands.countModules.template import template
 from mudules.saveJSON import saveJSON
 from mudules.isFile import isFile
 from mudules.makeDir import makeDir

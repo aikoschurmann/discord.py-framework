@@ -5,7 +5,6 @@ from asyncio.windows_events import INFINITE
 from mudules.saveJSON import saveJSON
 import discord
 import copy
-from commands.countModules.setup import setup
 
 
 class Flux(object):
