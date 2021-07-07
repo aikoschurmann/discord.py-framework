@@ -1,22 +1,30 @@
-from commands.count import count
-from mudules.discord.channel import channel
-from commands.response import response
-from commands.setactivity import setactivity
-from mudules.discord.isBot import isBot
-from mudules.discord.newCommand import newCommand
-from mudules.discord.hasPrefix import hasPrefix
-from commands.shutdown import shutdown
+# framework
+from bot.Flux import Flux
 
 
+# commands
+#from commands.response import response
+#from commands.setactivity import setactivity
+#from commands.shutdown import shutdown
+
+
+# runs every message
 async def execute(message, client):
-    # executed every message
-    if hasPrefix(message) and not isBot(message):
-        # if command needs prefix
-        await newCommand(message, "test", response, args=["1", "2", "3"], exact=True)
-        await newCommand(message, "setactivity", setactivity, client)
-        await newCommand(message, "shutdown", shutdown, client)
 
-    elif not isBot(message):
-        # if command doesn't need prefix
-        if channel(message, "counting"):
-            await count(message)
+    # initiates framework
+    Client = Flux(message, client)
+
+    # runs when message starts with prefix and author isnn't a bot
+    if Client.HasPrefix() and not Client.IsBot():
+        pass
+        # await Client.NewCommand("test", response, args=["1"])
+        # await Client.NewCommand("setactivity", setactivity, client)
+        # await Client.NewCommand("shutdown", shutdown, client)
+
+    # runs when no prefix is needed and author isn't a bot
+    elif not Client.IsBot():
+
+        # runs when message was send in specific channel
+        if Client.Channel("counting"):
+
+            await Client.Count()

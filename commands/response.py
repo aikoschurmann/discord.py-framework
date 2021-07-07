@@ -1,5 +1,4 @@
-from mudules.discord.getUser import getUser
-from mudules.discord.sendMessage import sendMessage
+
 import discord
 
 
