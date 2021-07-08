@@ -8,8 +8,8 @@ import operator
 
 class Count():
 
-    def __init__(self, flux, message):
-        self.message = message
+    def __init__(self, flux):
+        self.message = flux.message
         self.flux = flux
         self.args = flux.GetArgs()
         self.data = self.Setup()
@@ -32,7 +32,7 @@ class Count():
     def GetCount(self):
         return int(self.data["count"])
 
-    def Template():
+    def Template(self):
         return{
             "settings": {
                 "repeat": True,
@@ -44,6 +44,8 @@ class Count():
             "correct": {},
             "incorrect": {},
             "coins": {},
+            "links": [],
+            "origin": None,
             "lastCount": None
         }
 

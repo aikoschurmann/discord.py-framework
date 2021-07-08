@@ -1,0 +1,17 @@
+{
+    "settings": {
+        "repeat": true,
+        "timeout": true,
+        "reset": true,
+        "reward": 1
+    },
+    "count": 10,
+    "correct": {
+        "Ender_Bit#1888": 10
+    },
+    "incorrect": {},
+    "coins": {},
+    "links": [],
+    "origin": "787704014568816690",
+    "lastCount": null
+}

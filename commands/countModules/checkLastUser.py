@@ -1,4 +1,3 @@
-from commands.countModules.getSettings import getSettings
 
 
 def checkLastUser(message, data):

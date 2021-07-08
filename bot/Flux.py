@@ -1,7 +1,8 @@
+from asyncio.windows_events import INFINITE
+from bot.Link import Link
+from mudules.isFile import isFile
 from bot.Count import Count
 from mudules.loadJSON import loadJSON
-from commands.count import count
-from asyncio.windows_events import INFINITE
 from mudules.saveJSON import saveJSON
 import discord
 import copy
@@ -21,18 +22,22 @@ class Flux(object):
         "returns prefix specified in config.json"
         return loadJSON("./config.json")["prefix"]
 
-    def IsBot(self):
+    def IsBot(self) -> bool:
         "checks if message comes from a bot"
         return self.message.author.bot
 
-    def Channel(self, channelName):
+    def Channel(self, channelName: str) -> bool:
         if self.message.channel.name == channelName:
             return True
         else:
             return False
 
-    def CountSetup(self):
-        return setup(self.message)
+    def Role(self, roleName: str) -> bool:
+        roles = self.message.author.roles
+        for role in roles:
+            if role.name == roleName:
+                return True
+        return False
 
     def GetArgs(self):
         "Returns arguments of given message"
@@ -60,7 +65,7 @@ class Flux(object):
             a = self.message.content.split(" ")
         print(a)
 
-    def SaveMessage(self, path="log.txt"):
+    def SaveMessage(self, path: str = "log.txt"):
         "saves message to given path"
         server = self.message.guild.name
         name = self.message.author.name + "#" + self.message.author.discriminator
@@ -69,32 +74,22 @@ class Flux(object):
         with open(path, 'a') as f:
             f.write(line)
 
-    async def SetActivity(self, activity):
+    async def SetActivity(self, activity: str):
         "sets the activity of the bot"
         data = loadJSON("./config.json")
         data["activity"] = activity
         saveJSON("./config.json", data)
         await self.client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=activity))
 
-    async def SendMessage(self, text):
+    async def SendMessage(self, text: str):
         "sends a message in the channel the message was recieved in"
         await self.message.channel.send(text)
 
-    async def EmojiReact(self, emoji):
+    async def EmojiReact(self, emoji: str):
         "replies with a emoji to given message"
         await self.message.add_reaction(emoji)
 
-    async def Count(self):
-        game = Count(self, self.message)
-        number = game.NumberCorrect()
-        user = game.CheckLastUser()
-        if number and user:
-            game.IncreaseCount()
-            game.IncreaseCorrect()
-            game.SaveData()
-            await self.EmojiReact("✅")
-
-    async def NewCommand(self, command, function, client=None, args=[], exact=False):
+    async def NewCommand(self, command: str, function, args: list[int] = [], exact: bool = False):
         "makes a new Discord command"
         a = self.GetArgs()
         b = copy.copy(a)
@@ -132,7 +127,24 @@ class Flux(object):
                                 correct = False
                                 break
         if correct:
-            if client == None:
-                await function(self.message, a)
-            else:
-                await function(self.message, a, client)
+            await function(self)
+
+    async def Count(self):
+        game = Count(self)
+        number = game.NumberCorrect()
+        user = game.CheckLastUser()
+        if number and user:
+            game.IncreaseCount()
+            game.IncreaseCorrect()
+            game.SaveData()
+            await self.EmojiReact("✅")
+
+    async def Linker(self):
+        link = Link(self)
+        await self.NewCommand("newlink", link.NewLink)
+        await self.NewCommand("setorigin", link.SetOrigin)
+
+    async def LinkerSender(self):
+        link = Link(self)
+
+        await link.AutoMessage()

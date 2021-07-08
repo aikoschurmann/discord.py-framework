@@ -2,5 +2,5 @@
 import discord
 
 
-async def response(message, a):
-    await sendMessage(message, getUser(message) + "it works!")
+async def response(bot):
+    await bot.SendMessage(bot.GetUser() + "it works!")
